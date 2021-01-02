@@ -5,7 +5,7 @@ import time
 #Initialize MQTT Varaibles
 client_id="PI-LAB1"
 broker="192.168.x.x"
-port=8883
+port=1883
 subs_topic="Relay/r1_write"
 publish_topic="Relay/r1_read"
 

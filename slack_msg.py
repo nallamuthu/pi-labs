@@ -1,7 +1,7 @@
 import slack_sdk as slack_web
 from slack_sdk.errors import SlackApiError
 #Slack API BOT Token
-slack_bot_token='xoxb-84873741616-2612338309666-er43O1YOcK9iZvhCpTvh1LiA'
+slack_bot_token='xoxb-XXXX'
 channel = "#test"
 msg="Hello"
 try:
